@@ -1,0 +1,12 @@
+BOT_TOKEN=("7799225662:AAFYX1oLc7AEYq1tzHDdmUb4omfgYoNnxqM")
+
+OWNER_USERNAME=("@user_x_dead")
+
+ADMIN_IDS=("1302320722")
+
+
+
+
+
+
+  
